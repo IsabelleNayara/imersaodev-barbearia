@@ -3,5 +3,6 @@ Esse foi um dos projetos realizados durante o curso de Front End do Empower Code
 
 https://isabellenayara.github.io/imersaodev-barbearia/
 
-
-<img src="[logo-branca.png](https://isabellenayara.github.io/imersaodev-barbearia/CONTATO.png)" alt="Página de contato da Ayoub Barbearia">
+<p align="center">
+<img src="https://isabellenayara.github.io/imersaodev-barbearia/CONTATO.png" alt="Página de contato da Ayoub Barbearia">
+</p>
