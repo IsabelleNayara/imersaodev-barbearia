@@ -6,8 +6,8 @@ https://isabellenayara.github.io/imersaodev-barbearia/
 <p align="center">
 <h1> Página inicial da Barbearia Alura </h1>
 <img src="https://isabellenayara.github.io/imersaodev-barbearia/HOME.png" alt="Página inicial da Ayoub Barbearia">
-<p> Página com os serviços oferecidos da Ayoub Barbearia </p>
+<h1> Página com os serviços oferecidos da Ayoub Barbearia </h1>
 <img src="https://isabellenayara.github.io/imersaodev-barbearia/PRODUTOS.png" alt="Página com os serviços oferecidos da Ayoub Barbearia">
-<p> Página de conta da Barbearia Alura </p>
+<h1> Página de conta da Barbearia Alura </h1>
 <img src="https://isabellenayara.github.io/imersaodev-barbearia/CONTATO.png" alt="Página de contato da Ayoub Barbearia">
 </p>
