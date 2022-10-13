@@ -1,5 +1,5 @@
 # imersaodev-barbearia
-Esse foi um dos projetos realizados durante o curso de Front End do Empower Code. Aprendi conceitos de HTML e CSS para a construção de sites,
+Esse foi um dos projetos realizados durante o curso de Front-End do Empower Code. Aprendi conceitos de HTML e CSS para a construção deste site. O Empower Code é curso voltado ao incetivo da maior participação de mulheres no mundo da programação. O site é composto de 3 páginas: home, serviços oferecidos e contato.
 
 https://isabellenayara.github.io/imersaodev-barbearia/
 
