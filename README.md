@@ -4,7 +4,7 @@ Esse foi um dos projetos realizados durante o curso de Front-End do Empower Code
 https://isabellenayara.github.io/imersaodev-barbearia/
 
 <p align="center">
-<h1>------------      Página inicial da Barbearia Alura      ------------</h1>
+<h1 align="center"> Página inicial da Barbearia Alura </h1>
 <img src="https://isabellenayara.github.io/imersaodev-barbearia/HOME.png" alt="Página inicial da Ayoub Barbearia">
 <br>
 <h1> Página com os serviços oferecidos da Ayoub Barbearia </h1>
